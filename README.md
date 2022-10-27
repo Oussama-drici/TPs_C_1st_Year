@@ -11,4 +11,4 @@
 # Note : to well understand the programs you need to test the code in your paper a manipulate it line by line
 # Note : do not forget to read the comments in the code
 
-Thanks to tell me if u find any issues in the code
+Thanks to tell me if u find any issues in the code :) :) :)
