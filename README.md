@@ -8,7 +8,7 @@
 # for Dev c++ : https://www.youtube.com/watch?v=UvNI0AxFSZk
 # for vscode : https://www.youtube.com/watch?v=oaebkkOP2Qg
 
-# Note : to well understand the programs you need to test the code in your paper a manipulate it line by line
+# Note : to well understand the programs you need to test the code in your paper and manipulate it line by line
 # Note : do not forget to read the comments in the code
 
 Thanks to tell me if u find any issues in the code :) :) :)
